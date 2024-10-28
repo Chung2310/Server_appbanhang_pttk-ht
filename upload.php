@@ -1,5 +1,5 @@
 <?php
-include "connect.php";  // Thiếu dấu chấm phẩy đã được sửa
+include "connect.php";  
 
 $target_dir = "images/";
 
